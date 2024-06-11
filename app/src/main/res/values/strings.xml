@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GameZen</string>
+    <string name="home_menu">Home</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="profile_menu">Profile</string>
+
+    <string name="email_developer_farhan">farhanadinugraha17@gmail.com</string>
+    <string name="name_developer_farhan">Farhan Adi Nugraha</string>
+    <string name="status_developer_farhan">MD-29 Bangkit Cohort</string>
+
+    <string name="searchbar_hinttext">Mau cari game apa para gamers?</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="about_farhan">Tentang saya</string>
+    <string name="back_text">Back</string>
+
+    <string name="if_favorite_is_empty">List Favorit belum ada</string>
+    <string name="Favorite_text">Favorit</string>
+    <string name="delete_item_from_favoritelist">Hapus dari List Favorit</string>
+    <string name="add_item_to_favorite">Tambahkan item ke List Favorit</string>
+    <string name="if_data_is_empty">Tidak ada Data</string>
+</resources>
